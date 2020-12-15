@@ -1,0 +1,13 @@
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\bin\Debug\netcoreapp3.1\KomodoClaimsApp.exe
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\bin\Debug\netcoreapp3.1\KomodoClaimsApp.deps.json
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\bin\Debug\netcoreapp3.1\KomodoClaimsApp.runtimeconfig.json
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\bin\Debug\netcoreapp3.1\KomodoClaimsApp.runtimeconfig.dev.json
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\bin\Debug\netcoreapp3.1\KomodoClaimsApp.dll
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\bin\Debug\netcoreapp3.1\KomodoClaimsApp.pdb
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\obj\Debug\netcoreapp3.1\KomodoClaimsApp.csprojAssemblyReference.cache
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\obj\Debug\netcoreapp3.1\KomodoClaimsApp.AssemblyInfoInputs.cache
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\obj\Debug\netcoreapp3.1\KomodoClaimsApp.AssemblyInfo.cs
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\obj\Debug\netcoreapp3.1\KomodoClaimsApp.csproj.CoreCompileInputs.cache
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\obj\Debug\netcoreapp3.1\KomodoClaimsApp.dll
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\obj\Debug\netcoreapp3.1\KomodoClaimsApp.pdb
+C:\Users\jalhi\source\repos\KomodoClaimsLib\KomodoClaimsApp\obj\Debug\netcoreapp3.1\KomodoClaimsApp.genruntimeconfig.cache
